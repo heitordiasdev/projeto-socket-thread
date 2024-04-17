@@ -9,7 +9,7 @@ import java.util.concurrent.Executors;
 
 public class Servidor {
     private static final String UPLOAD_DIRECTORY = "C:\\Users\\heito\\IdeaProjects\\ProjetoSd\\src\\main\\java\\br\\com\\catolica\\projetosd\\images";
-    private static final int PORT = 12346;
+    private static final int PORT = 8082;
     private static final ExecutorService executor = Executors.newCachedThreadPool();
 
     public static void main(String[] args) {

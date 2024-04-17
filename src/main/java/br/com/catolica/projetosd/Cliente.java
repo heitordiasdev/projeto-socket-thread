@@ -16,7 +16,7 @@ import java.util.List;
 
 public class Cliente extends Application {
     private static final String SERVER_ADDRESS = "localhost";
-    private static final int PORT = 12346;
+    private static final int PORT = 8082;
     private static final String UPLOAD_DIRECTORY = "C:\\Users\\heito\\IdeaProjects\\ProjetoSd\\src\\main\\java\\br\\com\\catolica\\projetosd\\images";
 
     private ObjectOutputStream out;
